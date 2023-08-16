@@ -1,4 +1,4 @@
-from .src/dice-engine import roll_with_result
+from .src/dice_engine_andersonstv/dice_roller import roll_with_result
 
 print("Write your dice expression and press Enter:")
 exp = input()
